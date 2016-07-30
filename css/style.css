@@ -17,11 +17,11 @@ background-color:#f1f1f1;
 }
 
 header div#logo{
-width:93px;
+width:7.5%;
 float: left;
 }
 header div#logo img{
-	width: 100%;
+	width: 7em;
 }
 header div#search{
 float: left;
@@ -129,7 +129,7 @@ div.menu a.gmail{
 
 div#container div.menu{
 	float: left;
-	width: 93px !important;
+	width: 7.5% !important;
 }
 
 div#container div#button{
@@ -303,7 +303,7 @@ div#right li.active{
     border-top: 2px solid #737373;
 
 }
-div#right i.fa-users{
+div#right i.fa-users,.paddri{
 padding-right: 3.5% !important; 
 }
 
